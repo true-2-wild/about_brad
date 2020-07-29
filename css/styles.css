@@ -1,0 +1,22 @@
+body {
+  background-color: #cedebd
+}
+hr {
+  border-style: dotted none none none;
+  border-color: grey;
+  width: 5%;
+  border-width: 5px;
+}
+.styled_emojis {
+  color: transparent;
+  text-shadow: 0 0 0 #86c4ba;
+}
+h1 {
+  color: #411f1f;
+}
+h3 {
+  color: #411f1f;
+}
+h2 {
+  color: #411f1f;
+}
